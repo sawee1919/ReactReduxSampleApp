@@ -1,0 +1,205 @@
+{
+    "posts": [
+      {
+        "title": "CopyRight Automatico",
+        "tags": "[JS]"
+      },
+      {
+        "title": "HtmlWebpackPlugin Multiples HTML files",
+        "tags": "[JS, webpack]"
+      }
+    ],
+    "users" :[
+      {
+        "id" : 1,
+        "name"  : "sai",
+        "username" : "admin@gmail.com",
+        "password"  : "admin",
+        "status"  : 1
+      },
+      {
+        "id" : 2,
+        "name"  : "vilas",
+        "username" : "vilas@gmail.com",
+        "password"  : "vilas",
+        "status"  : 1
+      }
+    ],
+    "projects" : [
+      {
+        "id" : 1,
+        "projectName" :"Admissions",
+        "projectDept" : "IT",
+        "projectTechnology"  : "JAVA",
+        "userId" : 2
+      },
+      {
+        "id" : 2,
+        "projectName" :"Maps",
+        "projectDept" : "IT",
+        "projectTechnology"  : "React",
+        "userId" : 2
+      },
+      {
+        "id" : 3,
+        "projectName" :"FreshApps",
+        "projectDept" : "IT",
+        "projectTechnology"  : "React Js",
+        "userId" : 1
+      },
+      {
+        "id" : 4,
+        "projectName" :"BestApps",
+        "projectDept" : "IT",
+        "projectTechnology"  : "React Js",
+        "userId" : 1
+      },
+      {
+        "id" : 5,
+        "projectName" :"FreshApps",
+        "projectDept" : "IT",
+        "projectTechnology"  : "React Js",
+        "userId" : 1
+      },
+      {
+        "id" : 6,
+        "projectName" :"Travelling",
+        "projectDept" : "IT",
+        "projectTechnology"  : "React Js",
+        "userId" : 1
+      },
+      {
+        "id" : 7,
+        "projectName" :"Artificial Intellegence",
+        "projectDept" : "IT",
+        "projectTechnology"  : "React Js",
+        "userId" : 1
+      },
+      {
+        "id" : 8,
+        "projectName" :"Ignore",
+        "projectDept" : "IT",
+        "projectTechnology"  : "React Js",
+        "userId" : 1
+      },
+      {
+        "id" : 9,
+        "projectName" :"GET-it-OUT",
+        "projectDept" : "IT",
+        "projectTechnology"  : "React Js",
+        "userId" : 1
+      },
+      {
+        "id" : 10,
+        "projectName" :"Grouping",
+        "projectDept" : "IT",
+        "projectTechnology"  : "React Js",
+        "userId" : 1
+      },
+      {
+        "id" : 11,
+        "projectName" :"Yappslab",
+        "projectDept" : "IT",
+        "projectTechnology"  : "React Js",
+        "userId" : 1
+      }
+    ],
+    "customers" : [
+      {
+          "id" : 1,
+          "customerName" :"Sai ",
+          "phoneNumber" : 9898989898,
+          "emailId" : "sai@gmail.com",
+          "address" : "2-3-42, Nellore",
+          "city" : "Nellore",
+          "state" : "Andhra Pradesh",
+          "pincode" :524002,
+          "projectId" : 1,
+          "gender" :"male"
+      },
+      {
+        "id" : 2,
+        "customerName" :"Vilas ",
+        "phoneNumber" : 9898989898,
+        "emailId" : "vilas@gmail.com",
+        "address" : "2-3-42, Nellore",
+        "city" : "Nellore",
+        "state" : "Andhra Pradesh",
+        "pincode" :524002,
+        "projectId" : 3,
+        "gender" :"female"
+    },
+    {
+      "id" : 3,
+      "customerName" :"Subbu",
+      "phoneNumber" : 9898989898,
+      "emailId" : "subbu@gmail.com",
+      "address" : "2-3-42, Nellore",
+      "city" : "Nellore",
+      "state" : "Andhra Pradesh",
+      "pincode" :524002,
+      "projectId" : 3,
+      "gender" :"female"
+    },
+    {
+      "id" : 4,
+      "customerName" :"Abbu",
+      "phoneNumber" : 9898989898,
+      "emailId" : "Abbu@gmail.com",
+      "address" : "2-3-42, Nellore",
+      "city" : "Nellore",
+      "state" : "Andhra Pradesh",
+      "pincode" :524002,
+      "projectId" : 3,
+      "gender" :"male"
+    },
+    {
+      "id" : 5,
+      "customerName" :"Babbu",
+      "phoneNumber" : 9898989898,
+      "emailId" : "babbu@gmail.com",
+      "address" : "2-3-42, Nellore",
+      "city" : "Nellore",
+      "state" : "Andhra Pradesh",
+      "pincode" :524002,
+      "projectId" : 3,
+      "gender" :"female"
+    },
+    {
+      "id" : 6,
+      "customerName" :"lakshman",
+      "phoneNumber" : 9898989898,
+      "emailId" : "sabbu@gmail.com",
+      "address" : "2-3-42, Nellore",
+      "city" : "Nellore",
+      "state" : "Andhra Pradesh",
+      "pincode" :524002,
+      "projectId" : 3,
+      "gender" :"female"
+    },
+    {
+      "id" : 7,
+      "customerName" :"Ram",
+      "phoneNumber" : 9898989898,
+      "emailId" : "ram@gmail.com",
+      "address" : "2-3-42, Nellore",
+      "city" : "Nellore",
+      "state" : "Andhra Pradesh",
+      "pincode" :524002,
+      "projectId" : 3,
+      "gender" :"male"
+    },
+    {
+      "id" : 8,
+      "customerName" :"anji ",
+      "phoneNumber" : 9898989898,
+      "emailId" : "anji@gmail.com",
+      "address" : "2-3-42, Nellore",
+      "city" : "Nellore",
+      "state" : "Andhra Pradesh",
+      "pincode" :524002,
+      "projectId" : 3,
+      "gender" :"female"
+    }
+    ]
+}
